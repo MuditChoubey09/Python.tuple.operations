@@ -1,2 +1,2 @@
-# Python.tuple.operations
-This project demonstartes basic tuple oprations in python
+# Python.operations
+This project demonstartes basic oprations in python
